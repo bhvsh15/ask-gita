@@ -1,0 +1,29 @@
+# Core backend
+fastapi
+uvicorn
+
+# CORS handling
+python-multipart
+
+# Environment variables
+python-dotenv
+
+# RAG dependencies (already used in your project)
+langchain
+langchain-core
+langchain-community
+llama-index
+chromadb
+sentence-transformers
+
+# Embeddings & models
+openai
+llama-index-embeddings-ollama
+llama-index-llms-ollama
+
+# Optional (for LlamaIndex with Chroma)
+llama-index-vector-stores-chroma
+
+# Utilities
+pydantic
+requests
