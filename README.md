@@ -1,4 +1,4 @@
-# 📘 Ask-Gita — RAG Backend
+#  Ask-Gita — RAG Backend
 
 A lightweight Retrieval-Augmented-Generation (RAG) backend that answers questions from the **Bhagavad Gita** using:
 
@@ -12,7 +12,7 @@ A lightweight Retrieval-Augmented-Generation (RAG) backend that answers question
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Fast local embeddings (Ollama)
 - High-quality semantic chunking
