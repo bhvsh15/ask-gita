@@ -22,7 +22,5 @@ A lightweight Retrieval-Augmented-Generation (RAG) backend that answers question
   - **OpenRouter**
 - Simple 2-file backend deployment
 
----
 
-## 📁 Project Structure
 
